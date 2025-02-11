@@ -1,14 +1,25 @@
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/melihogul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melihogul" height="30" width="40" /></a>
-    <a href="https://instagram.com/melihogul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melihogul" height="30" width="40" /></a>
-    <a href="https://twitter.com/melihogul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="melihogul" height="30" width="40" /></a>
-</p>
+## 💻 Tech Stack
 
-<h3 align="left">Techs:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
+<div align="center">
+[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,prisma,tailwind)](https://skillicons.dev)
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melihogul&show_icons=true&locale=en&layout=compact" alt="melihogul" /></p>
+## 🔗 Socials
+<div align="center">
+    <a href="https://www.youtube.com/@oguldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="melihogul" height="50" width="50" /></a>
+    <a href="https://instagram.com/melihogul" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="melihogul" height="50" width="50" /></a>
+    <a href="https://twitter.com/melihogul" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="melihogul" height="50" width="50" /></a>
+    <a href="https://linkedin.com/in/melihogul" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="melihogul" height="50" width="50" /></a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melihogul&show_icons=true&locale=en" alt="melihogul" /></p>
+
+## 📊 Stats
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=melihogul&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melihogul&layout=compact&theme=radical" alt="Top Languages" height="200"/>
+</div>
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=melihogul&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</div>
