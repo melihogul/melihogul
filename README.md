@@ -2,7 +2,9 @@
 ## 💻 Tech Stack
 
 <div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=nextjs,ts,prisma,tailwind)](https://skillicons.dev)
+
 </div>
 
 ## 🔗 Socials
