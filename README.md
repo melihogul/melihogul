@@ -2,9 +2,10 @@
 ## 💻 Tech Stack
 
 <div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,prisma,tailwind)](https://skillicons.dev)
-
+    <a href="https://nextjs.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NextJS-Dark.svg" alt="nextjs" height="50" width="50" /></a>
+    <a href="https://www.typescriptlang.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TypeScript.svg" alt="typescript" height="50" width="50" /></a>
+    <a href="https://www.prisma.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Prisma.svg" alt="prisma" height="50" width="50" /></a>
+    <a href="https://tailwindcss.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TailwindCSS-Dark.svg" alt="tailwindcss" height="50" width="50" /></a>
 </div>
 
 ## 🔗 Socials
