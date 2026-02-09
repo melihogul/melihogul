@@ -18,10 +18,6 @@
 
 
 ## 📊 Stats
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=melihogul&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melihogul&layout=compact&theme=radical" alt="Top Languages" height="200"/>
-</div>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=melihogul&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
